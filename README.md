@@ -4,11 +4,12 @@ A simple ASP.NET Core Web API for managing tasks using Entity Framework Core and
 
 ## Setup Instructions
 1. Clone the repository: git clone https://github.com/Akansha157/TaskManagerApi.git
-2. Navigate to the project folder: cd TaskManagerApi
-3. Install dependencies: dotnet restore
-4. Apply migrations: dotnet ef database update
-5. Run the project: dotnet run
-6. Access the API at https://laughing-engine-677jwg976rgfpp4-5256.app.github.dev/.
+2. Open the project in Github Codespaces
+3. Navigate to the project folder in Termilnal: cd TaskManagerApi
+4. Install dependencies: dotnet restore
+5. Apply migrations: dotnet ef database update
+6. Run the project: dotnet run
+7. Access the API at https://laughing-engine-677jwg976rgfpp4-5256.app.github.dev/.
 
 ## API Endpoints
 - GET /api/Tasks: List all tasks
